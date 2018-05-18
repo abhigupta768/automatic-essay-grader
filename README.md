@@ -14,5 +14,5 @@ Automated Essay Grader implemented in Keras using Deep learning.
 3. Run train_model.py
 
 ### Team Members
-1. Abhinav Gupta
-2. Abhishek Sharma
+1. [Abhinav Gupta](https://github.com/abhigupta768)
+2. [Abhishek Sharma](https://github.com/abhishek0318)
